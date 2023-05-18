@@ -1,0 +1,12 @@
+{
+  "name": "custom-module-require",
+  "version": "1.0.0",
+  "description": "Encapsulate some functionality in a separate file and call it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
